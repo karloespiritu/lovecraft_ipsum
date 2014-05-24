@@ -1,6 +1,6 @@
 # LovecraftIpsum
 
-TODO: Write a gem description
+Alternative dummy text generator for lorem ipsum based on words of HP Lovecraft
 
 ## Installation
 
@@ -16,14 +16,4 @@ Or install it yourself as:
 
     $ gem install lovecraft_ipsum
 
-## Usage
 
-TODO: Write usage instructions here
-
-## Contributing
-
-1. Fork it ( http://github.com/<my-github-username>/lovecraft_ipsum/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
