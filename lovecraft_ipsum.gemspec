@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Karlo Espiritu"]
   spec.email         = ["karloespiritu@gmail.com"]
   spec.summary       = %q{H.P. Lovecraft lorem ipsum generator.}
-  spec.description   = %q{Altertive dummy text generator for lorem ipsum based on words of HP Lovecraft}
+  spec.description   = %q{Alternative dummy text generator for lorem ipsum based on words of HP Lovecraft}
   spec.homepage      = "https://githuub.com/karloespiritu/lovecraft_ipsum"
   spec.license       = "MIT"
 
